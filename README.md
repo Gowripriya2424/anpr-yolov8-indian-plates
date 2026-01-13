@@ -28,4 +28,3 @@ Manual vehicle identification is inefficient and error-prone in large-scale traf
 
 ---
 
-##  Project Structure
